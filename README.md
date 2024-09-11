@@ -1,8 +1,12 @@
-# 🎥 [Screen Tastes: The User-Critic Divide in Cinema](https://epfl-ada.github.io/ada-2023-project-radatouille/)
+# 🎥 [Screen Tastes: The User-Critic Divide in Cinema](https://antoninfaure.github.io/radatouille/)
 
-[![Github Pages](https://github.com/epfl-ada/ada-2023-project-radatouille/actions/workflows/deploy.yml/badge.svg)](https://github.com/epfl-ada/ada-2023-project-radatouille/actions/workflows/deploy.yml)
+[![Github Pages](https://github.com/antoninfaure/radatouille/actions/workflows/deploy.yml/badge.svg)](https://github.com/antoninfaure/radatouille/actions/workflows/deploy.yml)
 
-[Datastory](https://epfl-ada.github.io/ada-2023-project-radatouille/) by the *rADAtouille* team
+A project by the *rADAtouille* team for the CS-401 Applied Data Analysis course at EPFL
+
+
+[Datastory](https://antoninfaure.github.io/radatouille/) 
+
 
 ## Abstract
 

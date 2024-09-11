@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Oscar Bait",
+        "title": "Oscar Bait",
+        "content": "Movies specifically engineered to attract Oscar nominations resulting in more serious, depressing, or \"artistic\" movies. They're called Oscar Bait, and the practice is also derisively known as \"Oscarbation\".",
+        "movies": [
+            {
+                "title": "The Mask (1994)",
+                "link": "https://en.wikipedia.org/wiki/The_Mask_(1994_film)"
+            }
+        ],
+        "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/OscarBait",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/oscarbait_9451.jpg",
+        "image_aspect": "square"
+    },
+    {
+        "name": "Does This Remind You Of Anything",
+        "title": "Does This Remind You of Anything?",
+        "content": "A trope where a situation, often for comic or dramatic effect, resembles another scenario. This resemblance is apparent to the audience but not the characters. It's often used to draw subtextual parallels without being overtly obvious, sometimes aiming for subtlety but not always successfully. While it can be non-sexual, it's frequently used in a sexual context.",
+        "movies": [
+            {
+                "title": "The Matrix (1999)",
+                "link": "https://en.wikipedia.org/wiki/The_Matrix"
+            },
+            {
+                "title": "District 9 (2009)",
+                "link": "https://en.wikipedia.org/wiki/District_9"
+            }
+        ],
+        "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/DoesThisRemindYouOfAnything",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/cookiemonsterbakes_9.png",
+        "image_aspect": "square"
+    },
+    {
+        "name": "Downer Ending",
+        "title": "Downer Ending",
+        "content": "A story ending that is sad or depressing, often deliberately contrary to what was expected or desired, to leave a powerful emotional impact.",
+        "movies": [
+            {
+                "title": "Requiem for a Dream (2000)",
+                "link": "https://en.wikipedia.org/wiki/Requiem_for_a_Dream"
+            },
+            {
+                "title": "The Mist (2007)",
+                "link": "https://en.wikipedia.org/wiki/The_Mist_(film)"
+            }
+        ],
+        "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/DownerEnding",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/hamlet_gnsp.png",
+        "image_aspect": "square"
+    },
+    {
+        "name": "Consolation Award",
+        "title": "Consolation Award",
+        "content": "Basically, someone in the entertainment industry has gone too long without winning a particular award, despite their work being considered some of the best in their field. Eventually, they do end up winning the award... but for something considered pretty inferior to the rest of their work.",
+        "movies": [
+            {
+                "title": "The Departed (2006)",
+                "link": "https://en.wikipedia.org/wiki/The_Departed"
+            },
+            {
+                "title": "The Revenant (2015)",
+                "link": "https://en.wikipedia.org/wiki/The_Revenant_(2015_film)"
+            }
+        ],
+        "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/ConsolationAward",
+        "image": "https://resize-elle.ladmedia.fr/rcrop/638,,forcex/img/var/plain_site/storage/images/people/la-vie-des-people/news/leonardo-dicaprio-l-acteur-inconteste/l-oscar/74706440-1-fre-FR/L-Oscar.jpg",
+        "image_aspect": "square",
+        "image_position": "top"
+    },
+    {
+        "name": "Magical ...something",
+        "title": "Magical ...something",
+        "content": "A trope in which a supporting black character exists primarily to aid white protagonists, often with mystical or spiritual powers.",
+        "movies": [
+            {
+                "title": "The Green Mile (1999)",
+                "link": "https://en.wikipedia.org/wiki/The_Green_Mile_(film)"
+            },
+            {
+                "title": "The Legend of Bagger Vance (2000)",
+                "link": "https://en.wikipedia.org/wiki/The_Legend_of_Bagger_Vance"
+            }
+        ],
+        "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalNegro",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/magical_negro_0.jpg",
+        "image_aspect": "square"
+    },
+    {
+        "name": "Final Girl",
+        "title": "Final Girl",
+        "content": "A common trope in horror films where the last character left alive to confront the killer is a female. This character is usually moral, smart, and resourceful.",
+        "movies": [
+            {
+                "title": "Halloween (1978)",
+                "link": "https://en.wikipedia.org/wiki/Halloween_(1978_film)"
+            }
+        ],
+        "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/FinalGirl",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/imageedit_9_8206668253.jpg",
+        "image_aspect": "square"
+    },
+    {
+        "name": "Slasher Movie",
+        "title": "Slasher Movie",
+        "content": "A subgenre of horror films involving a killer stalking and murdering a group of people, usually with bladed tools. These movies often follow a formulaic approach with a high body count.",
+        "movies": [
+            {
+                "title": "Friday the 13th (1980)",
+                "link": "https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film)"
+            }
+        ],
+        "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/SlasherMovie",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/movie_slashers.png",
+        "image_aspect": "square"
+    },
+    {
+        "name": "Ms FanService",
+        "title": "Ms. Fanservice",
+        "content": "A character, often female, included in a work to appeal to the audience's sexual interests. The design and presentation of the character focus on highlighting their attractiveness, using revealing outfits, suggestive poses, or the 'male gaze' camera work. This character often serves as a point of visual interest and can sometimes detract from the plot or other character development.",
+        "movies": [
+            {
+                "title": "Who Framed Roger Rabbit (1988)",
+                "link": "https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit"
+            }
+        ],
+        "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MsFanService",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/jessica_rabbit_smoking_9465.jpg",
+        "image_aspect": "square",
+        "image_position": "top"
+    }
+]
